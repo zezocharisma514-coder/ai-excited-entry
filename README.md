@@ -1,11 +1,7 @@
-# AI Excited Entry
+# ai-excited-01
 
-A deterministic, offline Make.fun `ai-excited-01` entry. The standard-library
-program copies the bundled image from `/bot/entry.png` to `/output/entry.png`
-without transforming it or using the network.
+A minimal Make.fun entry that copies the supplied image to the required output path.
 
-Run with Python 3 in the competition's `/bot` and `/output` layout:
-
-```sh
-python3 /bot/main.py
-```
+[![make.fun · ai-excited-01](https://make.fun/badge/ai-excited-01.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+[![rank](https://make.fun/badge/ai-excited-01/zezocharisma514-coder/ai-excited-entry/rank.svg)](https://make.fun/bounty/ai-excited-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+[![reward](https://make.fun/badge/ai-excited-01/zezocharisma514-coder/ai-excited-entry/reward.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
