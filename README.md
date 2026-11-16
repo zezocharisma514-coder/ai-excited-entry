@@ -1,14 +1,11 @@
 # AI Excited Entry
 
-[![Make.fun bounty](https://make.fun/badge/ai-excited-01.svg)](https://make.fun/c/ai-excited-01)
+A deterministic, offline Make.fun `ai-excited-01` entry. The standard-library
+program copies the bundled image from `/bot/entry.png` to `/output/entry.png`
+without transforming it or using the network.
 
-A deterministic, offline entry for the Make.fun `ai-excited-01` competition.
-The program copies the bundled image to `/output/entry.png`.
+Run with Python 3 in the competition's `/bot` and `/output` layout:
 
-## Run
-
-```bash
-python3 main.py
+```sh
+python3 /bot/main.py
 ```
-
-The official Make.fun kit is required for recording, checking, and submission.
